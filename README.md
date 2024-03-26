@@ -18,10 +18,6 @@ The objective of this task is to introduce you to MLflow for experiment tracking
 
 ### Output
 
-![MLflow Interface for Tracking Experiments](output/MLFlow Interface for Tracking Experiment.JPG)
-
-![MLflow Interface for Model Management](output/MLFlow Interface for Model Management.JPG)
-
 ![Metric plots](output/metric_plots1.JPG)
 
 ![Metric plots](output/metric_plots2.JPG)
